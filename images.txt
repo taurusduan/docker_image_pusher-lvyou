@@ -4,3 +4,4 @@ ghcr.io/ggerganov/llama.cpp:server
 ghcr.io/ggerganov/llama.cpp:server-cuda
 ghcr.io/open-webui/open-webui:main
 ollama/ollama:latest
+taurusduan/gpt-4-turbo:latest
