@@ -4,4 +4,4 @@ ghcr.io/ggerganov/llama.cpp:server
 ghcr.io/ggerganov/llama.cpp:server-cuda
 ghcr.io/open-webui/open-webui:main
 ollama/ollama:latest
-6053537/portainer-ce:2.19.5
+portainer/portainer-ce:2.20.3
