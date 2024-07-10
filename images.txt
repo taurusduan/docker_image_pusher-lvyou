@@ -7,4 +7,5 @@ ghcr.io/ggerganov/llama.cpp:server-rocm
 ghcr.io/open-webui/open-webui:main
 ollama/ollama:latest
 
+taurusduan/r2s-lts:v4.4
 taurusduan/r2s-lts:v5.2
