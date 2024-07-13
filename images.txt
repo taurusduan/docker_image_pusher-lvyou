@@ -7,3 +7,9 @@ ghcr.io/ggerganov/llama.cpp:server-rocm
 ghcr.io/open-webui/open-webui:main
 ollama/ollama:latest
 
+taurusduan/llama.cpp:yi-6b
+taurusduan/llama.cpp:qwen2-7b
+taurusduan/llama.cpp:internlm2_5-7b
+taurusduan/llama.cpp:gpt-3.5-turbo-2024-07-04
+taurusduan/llama.cpp:gemma2-9b-chinese
+taurusduan/llama.cpp:gemma2-27b-chinese
