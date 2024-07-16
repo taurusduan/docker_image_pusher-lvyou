@@ -1,6 +1,7 @@
 calciumion/new-api:latest
 ghcr.io/songquanpeng/one-api:latest
 ghcr.io/jeessy2/ddns-go
+ghcr.io/aurora-develop/aurora:latest
 ghcr.io/ggerganov/llama.cpp:server
 ghcr.io/ggerganov/llama.cpp:server-cuda
 ghcr.io/ggerganov/llama.cpp:server-rocm
