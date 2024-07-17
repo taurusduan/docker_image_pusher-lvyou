@@ -13,7 +13,5 @@ vinlic/glm-free-api:latest
 vinlic/qwen-free-api:latest
 vinlic/deepseek-free-api:latest
 
-docker.elastic.co/elasticsearch/elasticsearch:dev
-
 mysql:5.7.44
 mysql:8.0.38
