@@ -15,3 +15,4 @@ vinlic/deepseek-free-api:latest
 
 mysql:5.7.44
 mysql:8.0.38
+mysql:8.2.0
