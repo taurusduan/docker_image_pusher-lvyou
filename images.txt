@@ -13,6 +13,5 @@ vinlic/glm-free-api:latest
 vinlic/qwen-free-api:latest
 vinlic/deepseek-free-api:latest
 
-mysql:5.7.44
-mysql:8.0.38
-mysql:8.2.0
+calciumion/new-api:v0.2.7.1
+ghcr.io/songquanpeng/one-api:v0.6.7
