@@ -13,5 +13,4 @@ vinlic/glm-free-api:latest
 vinlic/qwen-free-api:latest
 vinlic/deepseek-free-api:latest
 
-redis:7.2.5
-greatsql/greatsql:8.0.32-25
+taurusduan/embedding-bge-m3:latest
