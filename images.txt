@@ -13,4 +13,4 @@ vinlic/glm-free-api:latest
 vinlic/qwen-free-api:latest
 vinlic/deepseek-free-api:latest
 
-taurusduan/embedding-bge-m3:latest
+taurusduan/r2s-admin:v1.2.0
