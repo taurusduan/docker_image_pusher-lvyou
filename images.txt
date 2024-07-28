@@ -17,3 +17,5 @@ taurusduan / embedding
 taurusduan / embedding-bge-m3
 taurusduan / gpt-35-mini
 taurusduan / gpt-4o-mini
+
+taurusduan/llama.cpp:gpt-4o-mini
