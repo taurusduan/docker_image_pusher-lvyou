@@ -9,9 +9,5 @@ vinlic/metaso-free-api:latest
 vinlic/qwen-free-api:latest
 vinlic/deepseek-free-api:latest
 
-taurusduan/embedding:latest
-taurusduan/embedding-bge-m3:latest
-taurusduan/gpt-35-mini:latest
-
-taurusduan/llama.cpp:gpt-4o-mini
-
+mysql:8.4.2
+greatsql/greatsql:8.0.32-25
