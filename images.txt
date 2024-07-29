@@ -1,7 +1,6 @@
 ghcr.io/jeessy2/ddns-go
 ghcr.io/ggerganov/llama.cpp:server
 ghcr.io/ggerganov/llama.cpp:server-cuda
-ghcr.io/ggerganov/llama.cpp:server-rocm
 
 vinlic/kimi-free-api:latest
 vinlic/glm-free-api:latest
