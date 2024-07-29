@@ -1,12 +1,12 @@
+calciumion/new-api:latest
 ghcr.io/jeessy2/ddns-go
+
 ghcr.io/ggerganov/llama.cpp:server
 ghcr.io/ggerganov/llama.cpp:server-cuda
+
+vinlic/qwen-free-api:latest
+vinlic/deepseek-free-api:latest
 
 vinlic/kimi-free-api:latest
 vinlic/glm-free-api:latest
 vinlic/metaso-free-api:latest
-vinlic/qwen-free-api:latest
-vinlic/deepseek-free-api:latest
-
-mysql:8.4.2
-greatsql/greatsql:8.0.32-25
