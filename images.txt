@@ -17,5 +17,3 @@ vinlic/deepseek-free-api:latest
 taurusduan / embedding
 taurusduan / embedding-bge-m3
 taurusduan / gpt-35-mini
-
-taurusduan/llama.cpp:gpt-4o-mini
