@@ -10,12 +10,12 @@ ollama/ollama:latest
 
 vinlic/kimi-free-api:latest
 vinlic/glm-free-api:latest
+vinlic/metaso-free-api:latest
 vinlic/qwen-free-api:latest
 vinlic/deepseek-free-api:latest
 
 taurusduan / embedding
 taurusduan / embedding-bge-m3
 taurusduan / gpt-35-mini
-taurusduan / gpt-4o-mini
 
 taurusduan/llama.cpp:gpt-4o-mini
