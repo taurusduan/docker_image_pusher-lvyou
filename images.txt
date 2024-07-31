@@ -10,6 +10,3 @@ vinlic/deepseek-free-api:latest
 vinlic/kimi-free-api:latest
 vinlic/glm-free-api:latest
 vinlic/metaso-free-api:latest
-
-baiyuetribe/baota_mini
-taurusduan/gpt-4o-mini:latest
