@@ -11,5 +11,3 @@ vinlic/kimi-free-api:latest
 vinlic/glm-free-api:latest
 vinlic/metaso-free-api:latest
 
-taurusduan/debian:12-baota
-taurusduan/debian:12-mysql8.4
