@@ -11,4 +11,4 @@ vinlic/kimi-free-api:latest
 vinlic/glm-free-api:latest
 vinlic/metaso-free-api:latest
 
-redis:7.2.4
+taurusduan/99ai:3.7.0
