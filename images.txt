@@ -14,4 +14,4 @@ vinlic/kimi-free-api:latest
 vinlic/glm-free-api:latest
 vinlic/metaso-free-api:latest
 
-redis:7.4.0
+redis:7.2.0
