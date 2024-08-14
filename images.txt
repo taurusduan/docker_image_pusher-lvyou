@@ -2,6 +2,8 @@ calciumion/new-api:latest
 ghcr.io/songquanpeng/one-api:latest
 ghcr.io/jeessy2/ddns-go
 
+lobehub/lobe-chat
+
 ghcr.io/ggerganov/llama.cpp:server
 ghcr.io/ggerganov/llama.cpp:server-cuda
 
@@ -12,5 +14,4 @@ vinlic/kimi-free-api:latest
 vinlic/glm-free-api:latest
 vinlic/metaso-free-api:latest
 
-lobehub/lobe-chat
-ghcr.io/songquanpeng/one-api:v0.6.8
+redis:7.4.0
