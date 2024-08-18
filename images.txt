@@ -3,6 +3,7 @@ ghcr.io/songquanpeng/one-api:latest
 ghcr.io/jeessy2/ddns-go
 
 lobehub/lobe-chat
+lobehub/lobe-chat-database
 
 ghcr.io/ggerganov/llama.cpp:server
 ghcr.io/ggerganov/llama.cpp:server-cuda
@@ -13,5 +14,3 @@ vinlic/deepseek-free-api:latest
 vinlic/kimi-free-api:latest
 vinlic/glm-free-api:latest
 vinlic/metaso-free-api:latest
-
-redis:7.2.0
