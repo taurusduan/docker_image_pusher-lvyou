@@ -17,3 +17,9 @@ vinlic/deepseek-free-api:latest
 vinlic/kimi-free-api:latest
 vinlic/glm-free-api:latest
 vinlic/metaso-free-api:latest
+
+swr.cn-north-4.myhuaweicloud.com/infiniflow/ragflow:
+docker.elastic.co/elasticsearch/elasticsearch:
+mysql:5.7.44
+quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+redis:7.2.4
