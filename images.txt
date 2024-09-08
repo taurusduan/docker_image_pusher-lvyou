@@ -21,3 +21,4 @@ vinlic/metaso-free-api:latest
 node:18.17-alpine
 python:3.11-slim-buster
 taurusduan/embedding-v1
+taurusduan/embedding-small:latest
