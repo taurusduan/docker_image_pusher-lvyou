@@ -18,5 +18,5 @@ vinlic/kimi-free-api:latest
 vinlic/glm-free-api:latest
 vinlic/metaso-free-api:latest
 
-taurusduan/embedding-v2
-
+taurusduan/r2s-lts:v4.8.9.1
+taurusduan/sandbox:v4.8.9.1
