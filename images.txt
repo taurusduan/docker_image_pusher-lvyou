@@ -19,3 +19,6 @@ vinlic/glm-free-api:latest
 vinlic/metaso-free-api:latest
 
 programzmh/chatnio
+
+greatsql/greatsql:8.0.32-26
+
