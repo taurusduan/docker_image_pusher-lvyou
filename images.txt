@@ -5,6 +5,7 @@ ghcr.io/jeessy2/ddns-go
 lobehub/lobe-chat
 lobehub/lobe-chat-database
 
+ollama/ollama:latest
 ghcr.io/open-webui/open-webui:cuda
 ghcr.io/open-webui/open-webui:main
 
@@ -19,6 +20,4 @@ vinlic/glm-free-api:latest
 vinlic/metaso-free-api:latest
 
 programzmh/chatnio
-
-greatsql/greatsql:8.0.32-26
 
