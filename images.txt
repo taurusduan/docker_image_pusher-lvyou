@@ -6,7 +6,7 @@ lobehub/lobe-chat
 lobehub/lobe-chat-database
 
 ollama/ollama:latest
-ghcr.io/open-webui/open-webui:0.3.22
+ghcr.io/open-webui/open-webui:0.3.23
 ghcr.io/open-webui/open-webui:cuda
 ghcr.io/open-webui/open-webui:main
 
