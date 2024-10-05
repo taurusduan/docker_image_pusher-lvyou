@@ -1,4 +1,5 @@
 martialbe/one-api:latest
+redis:latest
 ghcr.io/jeessy2/ddns-go
 
 calciumion/new-api:latest
