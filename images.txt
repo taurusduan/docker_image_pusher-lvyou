@@ -1,3 +1,4 @@
+martialbe/one-api:0.12.2
 martialbe/one-api:latest
 redis:latest
 ghcr.io/jeessy2/ddns-go
