@@ -16,7 +16,7 @@ lobehub/lobe-chat-database
 
 ollama/ollama:0.3.14
 ollama/ollama:latest
-ghcr.io/open-webui/open-webui:0.3.33
+ghcr.io/open-webui/open-webui:0.3.35
 ghcr.io/open-webui/open-webui:cuda
 ghcr.io/open-webui/open-webui:main
 
@@ -31,5 +31,3 @@ vinlic/glm-free-api:latest
 vinlic/metaso-free-api:latest
 
 programzmh/chatnio
-
-kkk123321/qwen2-vl-7b
