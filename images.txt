@@ -8,6 +8,8 @@ ghcr.io/songquanpeng/one-api:latest
 
 infiniflow/ragflow:dev-slim
 infiniflow/ragflow:dev
+infiniflow/ragflow:v0.12.0-slim
+infiniflow/ragflow:v0.12.0
 
 lobehub/lobe-chat
 lobehub/lobe-chat-database
