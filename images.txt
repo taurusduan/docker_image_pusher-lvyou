@@ -1,7 +1,3 @@
-luoyuu77/baota:debian11.v1.0
-luoyuu77/baota:debian11.v4.0
-luoyuu77/baota:amdv5
-
 martialbe/one-api:v0.13.1
 martialbe/one-api:latest
 redis:latest
