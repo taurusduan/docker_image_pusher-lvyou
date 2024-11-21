@@ -14,7 +14,7 @@ lobehub/lobe-chat-database
 
 ollama/ollama:0.4.2
 ollama/ollama:latest
-ghcr.io/open-webui/open-webui:0.4.1
+ghcr.io/open-webui/open-webui:0.4.2
 ghcr.io/open-webui/open-webui:cuda
 ghcr.io/open-webui/open-webui:main
 
