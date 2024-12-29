@@ -14,9 +14,9 @@ infiniflow/ragflow:v0.15.1
 lobehub/lobe-chat
 lobehub/lobe-chat-database
 
-ollama/ollama:0.5.3
+ollama/ollama:0.5.4
 ollama/ollama:latest
-ghcr.io/open-webui/open-webui:0.5.1
+ghcr.io/open-webui/open-webui:0.5.2
 ghcr.io/open-webui/open-webui:cuda
 ghcr.io/open-webui/open-webui:main
 
