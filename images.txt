@@ -1,4 +1,4 @@
-docker.io/justsong/one-api:v0.6.9
+justsong/one-api:v0.6.10
 martialbe/one-api:v0.14.2
 martialbe/one-api:latest
 redis:latest
