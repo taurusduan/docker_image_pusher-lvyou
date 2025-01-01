@@ -1,4 +1,4 @@
-docker pull openmmlab/lmdeploy:latest
+openmmlab/lmdeploy:latest
 
 justsong/one-api:v0.6.10
 martialbe/one-api:v0.14.2
@@ -24,7 +24,7 @@ lobehub/lobe-chat-database
 
 ollama/ollama:0.5.4
 ollama/ollama:latest
-ghcr.io/open-webui/open-webui:0.5.2
+ghcr.io/open-webui/open-webui:0.5.3
 ghcr.io/open-webui/open-webui:cuda
 ghcr.io/open-webui/open-webui:main
 
