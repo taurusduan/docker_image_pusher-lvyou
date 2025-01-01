@@ -39,3 +39,16 @@ vinlic/glm-free-api:latest
 vinlic/metaso-free-api:latest
 
 programzmh/chatnio
+
+mysql:8.2.0
+redis:7.4.0
+registry.cn-hongkong.aliyuncs.com/lvyou/embedding-v2:latest
+registry.cn-hongkong.aliyuncs.com/lvyou/embedding:latest
+registry.cn-hongkong.aliyuncs.com/lvyou/embedding-small:latest
+
+pgvector/pgvector:0.7.0-pg15
+mongo:5.0.18
+mongo:4.4.29
+registry.cn-hongkong.aliyuncs.com/lvyou/sandbox:v4.8.16.1
+registry.cn-hongkong.aliyuncs.com/lvyou/r2s-lts:v4.8.16.1
+registry.cn-hongkong.aliyuncs.com/lvyou/r2s-fast:latest
