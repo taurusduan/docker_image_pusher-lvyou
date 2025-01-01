@@ -1,11 +1,13 @@
 openmmlab/lmdeploy:latest
 
-justsong/one-api:v0.6.10
+ghcr.io/jeessy2/ddns-go
 martialbe/one-api:v0.14.2
 martialbe/one-api:latest
+redis:7.4.0
 redis:latest
-ghcr.io/jeessy2/ddns-go
+mysql:8.2.0
 
+justsong/one-api:v0.6.10
 calciumion/new-api:latest
 ghcr.io/songquanpeng/one-api:latest
 
@@ -36,19 +38,13 @@ vinlic/deepseek-free-api:latest
 
 vinlic/kimi-free-api:latest
 vinlic/glm-free-api:latest
-vinlic/metaso-free-api:latest
 
-programzmh/chatnio
-
-mysql:8.2.0
-redis:7.4.0
 registry.cn-hongkong.aliyuncs.com/lvyou/embedding-v2:latest
 registry.cn-hongkong.aliyuncs.com/lvyou/embedding:latest
 registry.cn-hongkong.aliyuncs.com/lvyou/embedding-small:latest
-
+registry.cn-hongkong.aliyuncs.com/lvyou/r2s-fast:latest
 pgvector/pgvector:0.7.0-pg15
 mongo:5.0.18
 mongo:4.4.29
 registry.cn-hongkong.aliyuncs.com/lvyou/sandbox:v4.8.16.1
 registry.cn-hongkong.aliyuncs.com/lvyou/r2s-lts:v4.8.16.1
-registry.cn-hongkong.aliyuncs.com/lvyou/r2s-fast:latest
