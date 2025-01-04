@@ -1,3 +1,5 @@
+php:7.4-apache
+
 openmmlab/lmdeploy:latest
 
 ghcr.io/jeessy2/ddns-go
