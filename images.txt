@@ -1,4 +1,5 @@
-node:20.14.0-alpine
+registry.cn-hongkong.aliyuncs.com/lvyou/r2s-lts:v4.8.1
+registry.cn-hongkong.aliyuncs.com/lvyou/r2s-admin:v1.2.0
 
 openmmlab/lmdeploy:latest
 
