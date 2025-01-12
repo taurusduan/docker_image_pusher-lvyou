@@ -1,5 +1,4 @@
-registry.cn-hongkong.aliyuncs.com/lvyou/r2s-lts:v4.8.1
-registry.cn-hongkong.aliyuncs.com/lvyou/r2s-admin:v1.2.0
+cr2.fit2cloud.com/1panel/maxkb
 
 openmmlab/lmdeploy:latest
 
