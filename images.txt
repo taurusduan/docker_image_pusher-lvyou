@@ -1,4 +1,6 @@
-cr2.fit2cloud.com/1panel/maxkb
+okapi0129/virtualwife-chatbot:latest
+okapi0129/virtualwife-chatvrm:latest
+okapi0129/virtualwife-gateway:latest
 
 openmmlab/lmdeploy:latest
 
