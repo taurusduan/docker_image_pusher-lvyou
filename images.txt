@@ -1,4 +1,4 @@
-nvidia/cuda:11.0-base
+nvidia/cuda
 
 mysql:8.0
 mysql:5.7.40
