@@ -1,5 +1,4 @@
-nvidia/cuda
-
+mysql:5.7.44
 mysql:8.0
 mysql:5.7.40
 redis:7.0.4
