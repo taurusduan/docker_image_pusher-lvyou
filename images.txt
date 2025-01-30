@@ -17,7 +17,7 @@ redis:7.4.0
 redis:latest
 mysql:8.2.0
 
-justsong/one-api:v0.6.9
+justsong/one-api:v0.6.10
 calciumion/new-api:latest
 ghcr.io/songquanpeng/one-api:latest
 
