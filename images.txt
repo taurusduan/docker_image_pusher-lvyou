@@ -1,3 +1,7 @@
+vllm/vllm-openai:v0.7.1
+vllm/vllm-openai
+openeuler/vllm-cpu
+
 mysql:8.0
 redis:7.0.4
 onlyoffice/documentserver:7.1.1
