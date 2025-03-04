@@ -1,7 +1,7 @@
 searxng/searxng
+ghcr.io/chevereto/chevereto:latest
 
 lmsysorg/sglang:latest
-
 vllm/vllm-openai:v0.7.2
 vllm/vllm-openai:latest
 openeuler/vllm-cpu:0.6.3-oe2403lts
