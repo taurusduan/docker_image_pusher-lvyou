@@ -1,12 +1,15 @@
+ollama/ollama:latest
 pgvector/pgvector:0.8.0-pg15
 mongo:5.0.18
+mongo:4.4.29
+ghcr.io/labring/fastgpt-sandbox:latest
+ghcr.io/labring/fastgpt:latest
 ghcr.io/labring/sealos-aiproxy-service:latest
 
 searxng/searxng
 ghcr.io/chevereto/chevereto:latest
 
 lmsysorg/sglang:latest
-vllm/vllm-openai:v0.7.2
 vllm/vllm-openai:latest
 openeuler/vllm-cpu:0.6.3-oe2403lts
 
@@ -43,9 +46,6 @@ mysql:8.0.39
 quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
 valkey/valkey:8
 
-ollama/ollama:0.5.4
-ollama/ollama:latest
-ghcr.io/open-webui/open-webui:0.5.3
 ghcr.io/open-webui/open-webui:cuda
 ghcr.io/open-webui/open-webui:main
 
