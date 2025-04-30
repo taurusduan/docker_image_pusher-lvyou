@@ -1,3 +1,12 @@
+elasticsearch:8.11.3
+mysql:8.0.39
+quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+valkey/valkey:8
+
+zstar1003/ragflowplus:v0.2.1
+zstar1003/ragflowplus-management-web:v0.2.1
+zstar1003/ragflowplus-management-server:v0.2.1
+
 famousmai/dify-plus-api:0.0.6
 famousmai/dify-plus-web:0.0.6
 postgres:15-alpine
