@@ -7,17 +7,6 @@ zstar1003/ragflowplus:v0.2.1
 zstar1003/ragflowplus-management-web:v0.2.1
 zstar1003/ragflowplus-management-server:v0.2.1
 
-famousmai/dify-plus-api:0.0.6
-famousmai/dify-plus-web:0.0.6
-postgres:15-alpine
-redis:6-alpine
-langgenius/dify-sandbox:0.2.10
-ubuntu/squid:latest
-nginx:latest
-semitechnologies/weaviate:1.19.0
-famousmai/dify-plus-admin-web:0.0.6
-famousmai/dify-plus-admin-server:0.0.6
-
 ollama/ollama:latest
 pgvector/pgvector:0.8.0-pg15
 mongo:5.0.18
