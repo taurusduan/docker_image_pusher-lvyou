@@ -21,7 +21,6 @@ ghcr.io/chevereto/chevereto:latest
 
 lmsysorg/sglang:latest
 vllm/vllm-openai:latest
-openeuler/vllm-cpu:0.6.3-oe2403lts
 
 mysql:8.0
 redis:7.0.4
