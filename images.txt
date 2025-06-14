@@ -7,56 +7,18 @@ zstar1003/ragflowplus:v0.4.3
 zstar1003/ragflowplus-management-web:v0.4.3
 zstar1003/ragflowplus-management-server:v0.4.3
 
-
 ollama/ollama:latest
-pgvector/pgvector:0.8.0-pg15
-mongo:5.0.18
-mongo:4.4.29
-ghcr.io/labring/fastgpt-sandbox:latest
-ghcr.io/labring/fastgpt:latest
-ghcr.io/labring/sealos-aiproxy-service:latest
 
 searxng/searxng
-ghcr.io/chevereto/chevereto:latest
 
 lmsysorg/sglang:latest
 vllm/vllm-openai:latest
-
-mysql:8.0
-redis:7.0.4
-onlyoffice/documentserver:7.1.1
-dataelement/bisheng-backend:v1.0.1
-dataelement/bisheng-frontend:v1.0.1
-docker.io/bitnami/elasticsearch:8.12.0
-quay.io/coreos/etcd:v3.5.5
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-milvusdb/milvus:v2.3.3
-
 openmmlab/lmdeploy:latest
 
 ghcr.io/jeessy2/ddns-go
-martialbe/one-api:v0.14.2
-martialbe/one-api:latest
-redis:7.4.0
-redis:latest
-mysql:8.2.0
 
-justsong/one-api:v0.6.10
 calciumion/new-api:latest
 ghcr.io/songquanpeng/one-api:latest
-
-infiniflow/ragflow:dev-slim
-infiniflow/ragflow:dev
-infiniflow/ragflow:v0.15.1-slim
-infiniflow/ragflow:v0.15.1
-docker.elastic.co/elasticsearch/elasticsearch:8.11.3
-infiniflow/infinity:v0.5.2
-mysql:8.0.39
-quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
-valkey/valkey:8
-
-ghcr.io/open-webui/open-webui:cuda
-ghcr.io/open-webui/open-webui:main
 
 ghcr.io/ggerganov/llama.cpp:server
 ghcr.io/ggerganov/llama.cpp:server-cuda
