@@ -27,3 +27,6 @@ vinlic/kimi-free-api:latest
 vinlic/glm-free-api:latest
 vinlic/deepseek-free-api:latest
 vinlic/qwen-free-api:latest
+
+milvusdb/milvus:v2.4.3
+redis:7.2-alpine
