@@ -1,5 +1,3 @@
-milvusdb/milvus:v2.5.10
-milvusdb/milvus:v2.4.3
 redis:7.2-alpine
 
 zstar1003/ragflowplus:v0.4.3
