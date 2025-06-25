@@ -1,4 +1,4 @@
-
+docker.io/bitnami/elasticsearch:8.12.0
 ollama/ollama:latest
 
 docker.io/searxng/searxng:latest
