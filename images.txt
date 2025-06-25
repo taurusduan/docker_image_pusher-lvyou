@@ -9,7 +9,6 @@ vllm/vllm-openai:latest
 
 ghcr.io/jeessy2/ddns-go
 
-ghcr.io/songquanpeng/one-api:latest
 calciumion/new-api:latest
 martialbe/one-api:latest
 
