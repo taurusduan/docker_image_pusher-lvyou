@@ -6,7 +6,7 @@ ruoyi/ruoyi-xxl-job-admin:0.8.3
 ollama/ollama:latest
 
 docker.io/searxng/searxng:latest
-ptonlix/langchain-searxng:latest
+ptonlix/langchain-searxng:v0.1.8
 
 lmsysorg/sglang:latest
 vllm/vllm-openai:latest
