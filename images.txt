@@ -1,12 +1,8 @@
-nginx:1.22.1
-ruoyi/ruoyi-server:0.8.3
-ruoyi/ruoyi-monitor-admin:0.8.3
-ruoyi/ruoyi-xxl-job-admin:0.8.3
 
 ollama/ollama:latest
 
 docker.io/searxng/searxng:latest
-ptonlix/langchain-searxng:v0.1.8
+ptonlix/langchain-searxng:latest
 
 lmsysorg/sglang:latest
 vllm/vllm-openai:latest
