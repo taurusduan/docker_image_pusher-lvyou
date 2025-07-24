@@ -1,6 +1,5 @@
-m.daocloud.io/docker.io/mysql
-m.daocloud.io/docker.io/redis
-m.daocloud.io/docker.io/nginx
+
+aoshiguchen/neutrino-proxy-client:latest
 
 ollama/ollama:latest
 
