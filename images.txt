@@ -18,7 +18,6 @@ martialbe/one-api:latest
 ghcr.io/ggerganov/llama.cpp:server
 ghcr.io/ggerganov/llama.cpp:server-cuda
 
-vinlic/kimi-free-api:latest
 vinlic/glm-free-api:latest
-vinlic/deepseek-free-api:latest
 vinlic/qwen-free-api:latest
+vinlic/deepseek-free-api:latest
