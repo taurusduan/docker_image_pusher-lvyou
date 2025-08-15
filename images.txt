@@ -1,5 +1,5 @@
 redis:7.2-alpine
-ghcr.io/labring/aiproxy:v0.1.7
+ghcr.io/labring/aiproxy:v0.2.2
 ghcr.io/labring/aiproxy:latest
 
 ollama/ollama:latest
