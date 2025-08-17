@@ -1,3 +1,5 @@
+greatsql/greatsql:8.0.32-27
+
 redis:7.2-alpine
 ghcr.io/labring/aiproxy:v0.2.2
 ghcr.io/labring/aiproxy:latest
