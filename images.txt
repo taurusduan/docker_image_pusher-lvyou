@@ -1,5 +1,4 @@
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-greatsql/greatsql:8.0.32-27
+ghcr.io/jae-jae/fetcher-mcp:latest
 
 redis:7.2-alpine
 ghcr.io/labring/aiproxy:v0.2.2
