@@ -1,3 +1,5 @@
+oceanbase/oceanbase-ce:4.3.5-lts
+
 ghcr.io/jae-jae/fetcher-mcp:latest
 
 redis:7.2-alpine
