@@ -1,4 +1,7 @@
-oceanbase/oceanbase-ce:4.3.5-lts
+postgres:16-alpine
+ghcr.io/bytebot-ai/bytebot-desktop:edge
+ghcr.io/bytebot-ai/bytebot-agent:edge
+ghcr.io/bytebot-ai/bytebot-ui:edge
 
 ghcr.io/jae-jae/fetcher-mcp:latest
 
