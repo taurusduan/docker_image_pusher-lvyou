@@ -1,7 +1,7 @@
+ghcr.io/berriai/litellm:main-stable
 ghcr.io/bytebot-ai/bytebot-desktop:edge
 ghcr.io/bytebot-ai/bytebot-agent:edge
 ghcr.io/bytebot-ai/bytebot-ui:edge
-ghcr.io/berriai/litellm:main-stable
 
 ghcr.io/jae-jae/fetcher-mcp:latest
 
