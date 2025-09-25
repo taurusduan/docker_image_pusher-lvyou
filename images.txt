@@ -1,4 +1,4 @@
-ghcr.io/berriai/litellm:main-stable
+ghcr.io/berriai/litellm:main
 ghcr.io/bytebot-ai/bytebot-desktop:edge
 ghcr.io/bytebot-ai/bytebot-agent:edge
 ghcr.io/bytebot-ai/bytebot-ui:edge
