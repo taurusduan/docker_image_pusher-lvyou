@@ -1,3 +1,5 @@
+nvidia/cuda:12.1.0-devel-ubuntu22.04
+
 ghcr.io/berriai/litellm:main
 ghcr.io/bytebot-ai/bytebot-desktop:edge
 ghcr.io/bytebot-ai/bytebot-agent:edge
