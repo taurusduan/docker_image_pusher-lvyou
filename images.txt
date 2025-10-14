@@ -1,4 +1,7 @@
 nvidia/cuda:12.1.0-devel-ubuntu22.04
+nvidia/cuda:12.1.0-cudnn8-devel-ubuntu22.04
+nvidia/cuda:12.8.1-devel-ubuntu22.04
+nvidia/cuda:12.8.1-cudnn-devel-ubuntu22.04
 
 ghcr.io/berriai/litellm:main
 ghcr.io/bytebot-ai/bytebot-desktop:edge
