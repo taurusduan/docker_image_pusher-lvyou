@@ -1,5 +1,5 @@
-docker pull registry.cn-beijing.aliyuncs.com/codewithgpu/comfyanonymous-comfyui:SbnCzes4R5
-docker pull registry.cn-beijing.aliyuncs.com/codewithgpu/comfyanonymous-comfyui:pvqzih92QH
+registry.cn-beijing.aliyuncs.com/codewithgpu/comfyanonymous-comfyui:SbnCzes4R5
+registry.cn-beijing.aliyuncs.com/codewithgpu/comfyanonymous-comfyui:pvqzih92QH
 
 ghcr.io/berriai/litellm:main
 ghcr.io/bytebot-ai/bytebot-desktop:edge
