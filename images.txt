@@ -1,5 +1,6 @@
-registry.cn-beijing.aliyuncs.com/codewithgpu/comfyanonymous-comfyui:SbnCzes4R5
-registry.cn-beijing.aliyuncs.com/codewithgpu/comfyanonymous-comfyui:pvqzih92QH
+yanwk/comfyui-boot:cpu
+yanwk/comfyui-boot:cu128
+yanwk/comfyui-boot:cu128-megapak
 
 ghcr.io/berriai/litellm:main
 ghcr.io/bytebot-ai/bytebot-desktop:edge
