@@ -24,9 +24,6 @@ ghcr.io/jeessy2/ddns-go
 calciumion/new-api:latest
 martialbe/one-api:latest
 
-ghcr.io/ggerganov/llama.cpp:server
-ghcr.io/ggerganov/llama.cpp:server-cuda
-
 vinlic/glm-free-api:latest
 vinlic/qwen-free-api:latest
 vinlic/deepseek-free-api:latest
