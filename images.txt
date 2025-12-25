@@ -1,5 +1,4 @@
 yanwk/comfyui-boot:cpu
-yanwk/comfyui-boot:cu128
 yanwk/comfyui-boot:cu128-megapak
 
 ghcr.io/berriai/litellm:main
