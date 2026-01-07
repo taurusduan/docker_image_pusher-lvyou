@@ -12,6 +12,7 @@ ghcr.io/jae-jae/fetcher-mcp:latest
 ghcr.io/labring/aiproxy:latest
 
 ollama/ollama:latest
+ghcr.io/ggml-org/llama.cpp:server
 
 docker.io/searxng/searxng:latest
 ptonlix/langchain-searxng:latest
