@@ -19,7 +19,7 @@ ptonlix/langchain-searxng:latest
 
 lmsysorg/sglang:latest
 vllm/vllm-openai:latest
-vllm/vllm-openai:v0.9.2
+vllm/vllm-openai:v0.13.0
 
 ghcr.io/jeessy2/ddns-go
 
