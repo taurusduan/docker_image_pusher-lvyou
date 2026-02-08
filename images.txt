@@ -1,3 +1,6 @@
+mysql:8.4.0
+redis:8.4.0
+
 vllm/vllm-openai:latest
 vllm/vllm-openai:v0.15.0-cu130
 vllm/vllm-openai:v0.14.1-cu130
