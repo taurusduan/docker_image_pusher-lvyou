@@ -1,8 +1,4 @@
-mysql:8.0
-redis:8.0
-
-mysql:8.4.0
-redis:8.4.0
+justlikemaki/openclaw-docker-cn-im:latest
 
 vllm/vllm-openai:latest
 vllm/vllm-openai:v0.15.0-cu130
