@@ -20,6 +20,7 @@ ghcr.io/labring/aiproxy:latest
 
 ollama/ollama:latest
 ghcr.io/ggml-org/llama.cpp:server
+ghcr.io/ggml-org/llama.cpp:server-cuda
 
 docker.io/searxng/searxng:latest
 ptonlix/langchain-searxng:latest
