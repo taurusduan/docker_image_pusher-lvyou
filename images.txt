@@ -1,3 +1,5 @@
+hotwa/ik:latest
+
 ghcr.io/justlovemaki/openclaw-docker-cn-im:main-8642ab9
 justlikemaki/openclaw-docker-cn-im:latest
 
