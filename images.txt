@@ -1,5 +1,5 @@
 justlikemaki/openclaw-docker-cn-im:latest
-docker.io/opensuse/leap:15.6
+yanwk/comfyui-boot:cu128-megapak-pt29
 hotwa/ik:latest
 
 vllm/vllm-openai:nightly
