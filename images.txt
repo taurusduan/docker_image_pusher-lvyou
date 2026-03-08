@@ -1,7 +1,7 @@
-hotwa/ik:latest
-
 ghcr.io/justlovemaki/openclaw-docker-cn-im:main-8642ab9
 justlikemaki/openclaw-docker-cn-im:latest
+docker.io/opensuse/leap:15.6
+hotwa/ik:latest
 
 vllm/vllm-openai:nightly
 vllm/vllm-openai:latest
