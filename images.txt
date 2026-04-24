@@ -7,6 +7,7 @@ nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/redis:7.0
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/milvus:v2.5.8
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/minio:latest
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/minio-mc:latest
+nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/quickwit:latest
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/log-platform:latest
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/elasticsearch:9.2.1
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/rcoder-computer-agent-runner:latest
