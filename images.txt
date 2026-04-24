@@ -12,6 +12,10 @@ quickwit/quickwit:latest
 docker.elastic.co/elasticsearch/elasticsearch:9.2.1
 registry.yichamao.com/rcoder:latest
 
+nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/rcoder-computer-agent-runner:latest
+nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/docker-cli:latest
+nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/rcoder:latest
+
 justlikemaki/openclaw-docker-cn-im:latest
 yanwk/comfyui-boot:cu128-megapak-pt29
 hotwa/ik:latest
