@@ -13,6 +13,7 @@ nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/elasticsearch:9.2
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/rcoder-computer-agent-runner:latest
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/docker-cli:latest
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/rcoder:latest
+nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/nuwax-agent-client:latest
 
 justlikemaki/openclaw-docker-cn-im:latest
 yanwk/comfyui-boot:cu128-megapak-pt29
