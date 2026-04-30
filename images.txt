@@ -1,3 +1,6 @@
+ghcr.io/arcreel/arcreel:latest
+postgres:18-alpine
+
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/agent-platform-front:latest
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/agent-platform-backend:latest
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/mcp-proxy:latest
