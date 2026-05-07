@@ -1,4 +1,3 @@
-registry.gitlab.com/edgeworks-public/llamacpp-turboquant-server:latest
 
 ghcr.io/arcreel/arcreel:latest
 postgres:18-alpine
