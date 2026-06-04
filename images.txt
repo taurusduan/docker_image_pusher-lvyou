@@ -1,6 +1,7 @@
 garenleeasa/lvllm:v2.1.4
 garenleeasa/lsglang:v1.2.1
 
+ghcr.io/saturndec/waoowaoo:latest
 ghcr.io/arcreel/arcreel:latest
 postgres:18-alpine
 
