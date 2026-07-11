@@ -1,8 +1,7 @@
 yanwk/comfyui-boot:cu130-slim
 yanwk/comfyui-boot:cu130-megapak-pt211
 
-garenleeasa/lvllm:v2.1.4
-garenleeasa/lsglang:v1.2.1
+pytorch/pytorch:2.10.0-cuda13.0-cudnn9-runtime
 
 ghcr.io/saturndec/waoowaoo:latest
 ghcr.io/arcreel/arcreel:latest
