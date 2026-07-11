@@ -1,3 +1,6 @@
+yanwk/comfyui-boot:cu130-slim
+yanwk/comfyui-boot:cu130-megapak-pt211
+
 garenleeasa/lvllm:v2.1.4
 garenleeasa/lsglang:v1.2.1
 
@@ -22,8 +25,6 @@ nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/docker-cli:latest
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/rcoder:latest
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/nuwax-agent-client:latest
 
-justlikemaki/openclaw-docker-cn-im:latest
-yanwk/comfyui-boot:cu128-megapak-pt29
 hotwa/ik:latest
 
 vllm/vllm-openai:nightly
