@@ -1,5 +1,5 @@
-nvidia/cuda:13.0.0-base-ubuntu22.04
-nvidia/cuda:13.0.0-devel-ubuntu22.04
+nvidia/cuda:13.0.2-base-ubuntu22.04
+nvidia/cuda:13.0.2-devel-ubuntu22.04
 
 pytorch/pytorch:2.10.0-cuda13.0-cudnn9-runtime
 
