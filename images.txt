@@ -1,3 +1,4 @@
+yanwk/comfyui-boot:cu128-megapak
 yanwk/comfyui-boot:cu130-megapak-pt211
 
 nvidia/cuda:13.0.2-base-ubuntu22.04
