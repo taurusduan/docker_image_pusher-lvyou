@@ -1,3 +1,5 @@
+yanwk/comfyui-boot:cu130-megapak-pt211
+
 nvidia/cuda:13.0.2-base-ubuntu22.04
 nvidia/cuda:13.0.2-devel-ubuntu22.04
 
@@ -30,10 +32,6 @@ vllm/vllm-openai:nightly
 vllm/vllm-openai:latest
 
 lmsysorg/sglang:latest
-
-yanwk/comfyui-boot:cpu
-yanwk/comfyui-boot:cu128-slim
-yanwk/comfyui-boot:cu128-megapak
 
 ghcr.io/berriai/litellm:main
 ghcr.io/bytebot-ai/bytebot-desktop:edge
