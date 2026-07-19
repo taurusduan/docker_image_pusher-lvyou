@@ -3,7 +3,7 @@ garenleeasa/lsglang:v1.4.3
 garenleeasa/lvllmds4:v2.3.3
 
 yanwk/comfyui-boot:cu128-megapak
-yanwk/comfyui-boot:cu130-megapak-pt211
+yanwk/comfyui-boot:cu130-slim
 
 nvidia/cuda:13.0.2-base-ubuntu22.04
 nvidia/cuda:13.0.2-devel-ubuntu22.04
