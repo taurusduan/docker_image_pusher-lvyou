@@ -1,18 +1,12 @@
-yanwk/comfyui-boot:cu130-slim-v2
 yanwk/comfyui-boot:cu130-megapak-pt211
 
-garenleeasa/lvllm:v2.3.6
-garenleeasa/lsglang:v1.4.3
-garenleeasa/lvllmds4:v2.3.3
+garenleeasa/lvllm:v2.3.10
+garenleeasa/lsglang:v1.4.7
 
 nvidia/cuda:13.0.2-base-ubuntu22.04
 nvidia/cuda:13.0.2-devel-ubuntu22.04
 
-pytorch/pytorch:2.10.0-cuda13.0-cudnn9-runtime
-
-ghcr.io/saturndec/waoowaoo:latest
 ghcr.io/arcreel/arcreel:latest
-postgres:18-alpine
 
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/agent-platform-front:latest
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/agent-platform-backend:latest
@@ -33,21 +27,12 @@ nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/nuwax-agent-clien
 
 hotwa/ik:latest
 
-vllm/vllm-openai:nightly
 vllm/vllm-openai:latest
-
 lmsysorg/sglang:latest
 
-ghcr.io/berriai/litellm:main
-ghcr.io/bytebot-ai/bytebot-desktop:edge
-ghcr.io/bytebot-ai/bytebot-agent:edge
-ghcr.io/bytebot-ai/bytebot-ui:edge
-
 ghcr.io/jae-jae/fetcher-mcp:latest
-
 ghcr.io/labring/aiproxy:latest
 
-ollama/ollama:latest
 ghcr.io/ggml-org/llama.cpp:server
 ghcr.io/ggml-org/llama.cpp:server-cuda
 
