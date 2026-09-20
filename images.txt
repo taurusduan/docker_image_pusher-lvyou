@@ -1,3 +1,4 @@
+yanwk/comfyui-boot:cu130-megapak-pt211-20260916
 yanwk/comfyui-boot:cu130-megapak-pt211
 
 garenleeasa/lvllm:v2.3.10
