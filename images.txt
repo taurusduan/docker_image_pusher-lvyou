@@ -1,5 +1,4 @@
-
-docker pull yanwk/comfyui-boot:xpu-cn-20261016
+yanwk/comfyui-boot:xpu-cn-20261016
 yanwk/comfyui-boot:cu130-megapak-pt211-20261016
 
 garenleeasa/lvllm:v2.3.10
