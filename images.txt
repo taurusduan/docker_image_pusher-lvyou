@@ -4,12 +4,6 @@ yanwk/comfyui-boot:cu130-megapak-pt211-20261019
 
 enwaiax/x-ui:alpha-zh
 
-garenleeasa/lvllm:v2.3.10
-garenleeasa/lsglang:v1.4.7
-
-nvidia/cuda:13.0.2-base-ubuntu22.04
-nvidia/cuda:13.0.2-devel-ubuntu22.04
-
 ghcr.io/arcreel/arcreel:latest
 
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/agent-platform-front:latest
@@ -25,11 +19,6 @@ nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/quickwit:latest
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/log-platform:latest
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/elasticsearch:9.2.1
 nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/nuwax-agent-client:latest
-
-hotwa/ik:latest
-
-vllm/vllm-openai:latest
-lmsysorg/sglang:latest
 
 ghcr.io/jae-jae/fetcher-mcp:latest
 ghcr.io/labring/aiproxy:latest
