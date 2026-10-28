@@ -1,4 +1,4 @@
-ghcr.io/niko1221/strata:0.2.3-cuda13
+ghcr.io/niko1221/strata:0.2.7-cuda13
 
 yanwk/comfyui-boot:cu130-megapak-pt211-20261027
 
