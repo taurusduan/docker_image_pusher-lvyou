@@ -1,8 +1,8 @@
+yanwk/comfyui-boot:cu130-megapak-pt211-20261104
+
 taurusduan/zero:20.32.0-202610031618-202611041314
 
 ghcr.io/niko1221/strata:latest-cuda13
-
-yanwk/comfyui-boot:cu130-megapak-pt211-20261027
 
 enwaiax/x-ui:alpha-zh
 
