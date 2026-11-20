@@ -1,7 +1,4 @@
 
-yanwk/comfyui-boot:cu130-megapak-pt211-20261111
-yanwk/comfyui-boot:cu126-megapak-pt211-20261111
-
 enwaiax/x-ui:alpha-zh
 
 docker.io/searxng/searxng:latest
