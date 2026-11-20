@@ -1,29 +1,9 @@
+ghcr.io/tencentcloud/octop:1.0.3b7-full
+
 yanwk/comfyui-boot:cu130-megapak-pt211-20261111
 yanwk/comfyui-boot:cu126-megapak-pt211-20261111
 
 enwaiax/x-ui:alpha-zh
-
-ghcr.io/arcreel/arcreel:latest
-
-nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/agent-platform-front:latest
-nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/agent-platform-backend:latest
-nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/mcp-proxy:latest
-nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/busybox:1.36-uclibc
-nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/mysql:8.0
-nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/redis:7.0
-nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/milvus:v2.5.8
-nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/minio:latest
-nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/minio-mc:latest
-nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/quickwit:latest
-nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/log-platform:latest
-nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/elasticsearch:9.2.1
-nuwax-docker-images-registry.cn-hangzhou.cr.aliyuncs.com/nuwax/nuwax-agent-client:latest
-
-ghcr.io/jae-jae/fetcher-mcp:latest
-ghcr.io/labring/aiproxy:latest
-
-ghcr.io/ggml-org/llama.cpp:server
-ghcr.io/ggml-org/llama.cpp:server-cuda
 
 docker.io/searxng/searxng:latest
 ptonlix/langchain-searxng:latest
@@ -31,8 +11,3 @@ ptonlix/langchain-searxng:latest
 ghcr.io/jeessy2/ddns-go
 
 calciumion/new-api:latest
-martialbe/one-api:latest
-
-vinlic/glm-free-api:latest
-vinlic/qwen-free-api:latest
-vinlic/deepseek-free-api:latest
