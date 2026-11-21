@@ -30,22 +30,27 @@ jobs:
     - name: Maximize build space
       uses: easimon/maximize-build-space@master
       with:
-
         root-reserve-mb: 2048
         swap-size-mb: 128
         remove-dotnet: 'true'
         remove-haskell: 'true'
-        # 如果空间还是不够用，可以把以下开启，清理出更多空间
-        # remove-android: 'true'
-        # remove-codeql: 'true'
+        # docker 任务用不到 android/codeql，清理出更多空间并入大盘
+        remove-android: 'true'
+        remove-codeql: 'true'
         build-mount-path: '/var/lib/docker/'
 
-    - name: Restart docker
-      run: sudo service docker restart
-
-    - name: Free up disk space complete
+    # ★ 关键修复：ubuntu-latest 已升级为 26.04 + Docker 29，默认改用 containerd image store，
+    #   镜像层会写到根盘的 /var/lib/containerd，完全绕过上面挂的大盘 /var/lib/docker，
+    #   而且压缩包+解压后两份都保留，磁盘占用翻倍。
+    #   这里关掉 containerd-snapshotter，切回 overlay2，镜像数据才会落进大盘。
+    - name: Use classic Docker storage driver
       run: |
-        echo "Free up disk space complete"
+        echo '{"features":{"containerd-snapshotter":false}}' | sudo tee /etc/docker/daemon.json
+
+    - name: Restart docker
+      run: |
+        sudo service docker restart
+        echo "Storage Driver = $(docker info -f '{{ .Driver }}')  # 必须是 overlay2"
         echo "=============================================================================="
         df -hT
         echo "=============================================================================="
@@ -58,7 +63,7 @@ jobs:
 
     - name: Build and push image Aliyun
       run: |
-        docker login -u $ALIYUN_REGISTRY_USER -p $ALIYUN_REGISTRY_PASSWORD $ALIYUN_REGISTRY
+        echo "$ALIYUN_REGISTRY_PASSWORD" | docker login -u "$ALIYUN_REGISTRY_USER" --password-stdin "$ALIYUN_REGISTRY"
         # 数据预处理,判断镜像是否重名
         declare -A duplicate_images
         declare -A temp_map
@@ -156,3 +161,10 @@ jobs:
             echo "=============================================================================="     
             
         done < images.txt
+
+    # 失败也能看到磁盘状态，方便排查
+    - name: Disk usage
+      if: always()
+      run: |
+        df -hT
+        sudo du -xh --max-depth=1 /var/lib 2>/dev/null | sort -rh | head -10
