@@ -6,5 +6,7 @@ yanwk/comfyui-boot:cu130-megapak-pt211-20261119
 yanwk/comfyui-boot:cu126-megapak-20261119
 
 searxng/searxng
+paulgoio/searxng:production
+
 ghcr.io/jeessy2/ddns-go
 calciumion/new-api:latest
