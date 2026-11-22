@@ -2,12 +2,9 @@ ghcr.io/niko1221/strata:0.2.17-cuda13
 
 ghcr.io/tencentcloud/octop:1.0.3b7-full
 
-yanwk/comfyui-boot:cu130-megapak-pt211-20261111
-yanwk/comfyui-boot:cu126-megapak-20261111
+yanwk/comfyui-boot:cu130-megapak-pt211-20261119
+yanwk/comfyui-boot:cu126-megapak-20261119
 
-
+searxng/searxng
 ghcr.io/jeessy2/ddns-go
-
 calciumion/new-api:latest
-
-
