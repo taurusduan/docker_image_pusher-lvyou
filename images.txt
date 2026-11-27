@@ -1,5 +1,7 @@
 ghcr.io/tencentcloud/octop:1.0.3b8-full
 
+taurusduan/zero:20.32.0-202610031618-202611231108
+
 ghcr.io/niko1221/strata:0.2.22-cuda13
 
 yanwk/comfyui-boot:cu130-megapak-pt211-20261119
