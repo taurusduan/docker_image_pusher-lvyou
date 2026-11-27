@@ -1,6 +1,6 @@
-ghcr.io/niko1221/strata:0.2.22-cuda13
+ghcr.io/tencentcloud/octop:1.0.3b8-full
 
-ghcr.io/tencentcloud/octop:1.0.3b7-full
+ghcr.io/niko1221/strata:0.2.22-cuda13
 
 yanwk/comfyui-boot:cu130-megapak-pt211-20261119
 yanwk/comfyui-boot:cu126-megapak-20261119
